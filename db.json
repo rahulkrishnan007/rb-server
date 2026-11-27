@@ -1,0 +1,146 @@
+{
+  "resumes": [
+    {
+      "fullName": "Rahu krishnan k",
+      "location": "palakkad",
+      "job": "Data Scientist",
+      "email": "2weeeeeeeeeee",
+      "phone": "eeeeeeeeeeeeeeeeee",
+      "linkedin": "eeeeeeeeeeeeeeeee",
+      "github": "qwertyuiop",
+      "degree": "2weeeeeeeeeee",
+      "college": "eeeeeeeeeeeeeeeeee",
+      "year": "eeeeeeeeeeeeeeeee",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": 1
+    },
+    {
+      "fullName": "qbji",
+      "location": "palakkad",
+      "job": "Business Analyst",
+      "email": "2weeeeeeeeeee",
+      "phone": "eeeeeeeeeeeeeeeeee",
+      "linkedin": "eeeeeeeeeeeeeeeee",
+      "github": "fghjk",
+      "degree": "2weeeeeeeeeee",
+      "college": "eeeeeeeeeeeeeeeeee",
+      "year": "eeeeeeeeeeeeeeeee",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": 2
+    },
+    {
+      "fullName": "achu",
+      "location": "palakkad",
+      "job": "Software Developer",
+      "email": "rahulkrishnan123000@gmail.com",
+      "phone": "123456789",
+      "linkedin": "qwertyui",
+      "github": "asdfghj",
+      "degree": "qwertyuio",
+      "college": "asdfghjk",
+      "year": "zxcvbnm,",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+      "id": 3
+    },
+    {
+      "fullName": "Rahul krishnan",
+      "location": "palakkad",
+      "job": "Data Analyst",
+      "email": "2weeeeeeeeeee",
+      "phone": "eeeeeeeeeeeeeeeeee",
+      "linkedin": "eeeeeeeeeeeeeeeee",
+      "github": "qwertyuio",
+      "degree": "2weeeeeeeeeee",
+      "college": "eeeeeeeeeeeeeeeeee",
+      "year": "eeeeeeeeeeeeeeeee",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": 4
+    }
+  ],
+  "downloads": [
+    {
+      "resumeId": "1",
+      "fullName": "Rahu krishnan k",
+      "job": "Data Scientist",
+      "fileName": "Rahu krishnan k_CV.pdf",
+      "imageUrl": "https://res.cloudinary.com/szhumnhf/image/upload/v1795608444/resume-builder/logjxlvmyxpdbgwf3qj8.png",
+      "downloadedAt": "25/11/2026, 5:37:26 pm",
+      "id": 1
+    },
+    {
+      "resumeId": "2",
+      "fullName": "qbji",
+      "job": "Business Analyst",
+      "fileName": "qbji_CV.pdf",
+      "imageUrl": "https://res.cloudinary.com/szhumnhf/image/upload/v1795691578/resume-builder/hixhol2rxpmphy5xoazq.png",
+      "downloadedAt": "26/11/2026, 4:42:59 pm",
+      "id": 2
+    },
+    {
+      "resumeId": "3",
+      "fullName": "achu",
+      "job": "Software Developer",
+      "fileName": "achu_CV.pdf",
+      "imageUrl": "https://res.cloudinary.com/szhumnhf/image/upload/v1795694133/resume-builder/lwzbnzurnjnvkxzmlcsk.png",
+      "downloadedAt": "11/26/2026, 5:25:35 PM",
+      "id": 3
+    },
+    {
+      "resumeId": "4",
+      "fullName": "Rahul krishnan",
+      "job": "Data Analyst",
+      "fileName": "Rahul krishnan_CV.pdf",
+      "imageUrl": "https://res.cloudinary.com/szhumnhf/image/upload/v1795774843/resume-builder/b2iicx9zdgmsv5m8rdyi.png",
+      "downloadedAt": "27/11/2026, 3:50:44 pm",
+      "id": 4
+    }
+  ]
+}
